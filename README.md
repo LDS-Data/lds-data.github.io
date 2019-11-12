@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# LDS Data
 
-You can use the [editor on GitHub](https://github.com/LDS-Data/lds-data.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+LDS Data is a collection of data related to The Church of Jesus Christ of Latter-day Saints.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+LDS Data is neither affiliated with nor endorsed by The Church of Jesus Christ of Latter-day Saints (also known as the LDS Church or Mormon Church). The title "LDS Data" is meant to accurately reflect the contents and focus of the datasets, but does not in any way imply that The Church of Jesus Christ of Latter-day Saints approves of or is in any way responsible for their contents.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Datasets
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LDS-Data/lds-data.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [The LDS Church Discipline Database](../../../lds-church-discipline)---data about formal disciplinary action by the church
+* [LDS Resignations](../resignations)---data about resignations by members of the church
