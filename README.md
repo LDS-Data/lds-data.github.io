@@ -7,5 +7,4 @@ LDS Data is neither affiliated with nor endorsed by The Church of Jesus Christ o
 
 ## Datasets
 
-* [The LDS Church Discipline Database](../../../lds-church-discipline)---data about formal disciplinary action by the church
-* [LDS Resignations](../resignations)---data about resignations by members of the church
+* [The LDS Church Discipline Database](../../../lds-church-discipline)—data about formal disciplinary action by the church
